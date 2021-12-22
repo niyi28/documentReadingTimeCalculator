@@ -6,6 +6,6 @@ public class Main {
 	// write your code here
         /*System.out.println("words: " + ReadFile.validateWords());
         System.out.println("Time :" + ReadingTimeCalculator.calculateReadingTime());*/
-        System.out.println("last words: " + ReadFile.readUrl());
+        System.out.println("last words: " + WordDocumentReader.wordReader());
     }
 }
